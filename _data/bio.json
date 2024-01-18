@@ -7,7 +7,7 @@
     "phone": "808-938-2205",
     "website": "https://000Aym612.github.io",
     "summary": "I am pursuing a B.A. in Information & Computer Science with Data Science certificate at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "2591 Dole st.", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "000Aym612", "url": "https://github.com/000Aym612" },
       { "network": "linkedin", "username": "Ayumu Yamagishi", "url": "https://www.linkedin.com/in/ayumu-yamagishi-1237d8738vf" },
