@@ -5,8 +5,9 @@ title: "My first journy of JavaScript!"
 date: 2024-01-1
 published: true
 labels:
-  -Software Engineering
-  -Comparison with other languages
+  - Software Engineering
+  - Comparison with other languages
+  - JavaScript
 ---
 
 I feel JavaScript is between Python and Java in terms of its functionality and style of coding. For example, when I create a function with a few parameters, in Java, C or C++, I have to define what data type of parameter I would pass and I have to define what data type of the function is, which means what data type of output the function returns after calling. This feature sounds like more Python than Java or C languages. Besides that, I do not have to write code inside a main function unlike Java or C do. However, in terms of grammar, such as switch statements, increment/decrement operators, I feel it is more similar to Java or C.
