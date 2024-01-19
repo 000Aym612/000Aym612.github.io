@@ -4,17 +4,18 @@ type: project
 image: img/blackJack.jpeg
 title: "Black Jack Game"
 date: 2022
-published: false
+published: true
 labels:
   - Python
   - Jupyter Notebook
-summary: "I created a graph to show any coefficiential relationship among the subjects."
+summary: "I created a black jack game application."
 ---
 
 <img class="img-fluid" src="../img/blackJack.jpeg">
 
 ## About the project
-"In this project, I compared the test results of each student by subject according to a fictional dataset and created a linear regression graph to show whether there are any correlational relationships in the test scores."
-
-## Result & Takeaways
-"The results did not show a correlation between students who are good at history also being good at mathematics or physics, as indicated by the low numerical value representing the correlation. However, it was observed that students who are proficient in mathematics also tend to score high in physics, and similarly, those who are skilled in physics tend to achieve high test scores in mathematics."
+This is an apps to play Blackjack by using TKInter module and random module in Python.
+random.randint() and random.seed(1), which are ensuring that they are dealt with an equal probability.
+It is possible to play a game match against a virtual opponent as a dealer.
+This app can be working well when you kill a time!
+However, this project has not sufficiently considered user graphics. Therefore, I believe that a more visually appealing version can be created by incorporating more photos and motion, or by using JavaScript React.
