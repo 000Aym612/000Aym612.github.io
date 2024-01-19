@@ -1,0 +1,22 @@
+---
+layout: project
+type: project
+image: 
+title: "Regression by Test Scores"
+date: 2022
+published: true
+labels:
+  - Python
+  - Data Analysis
+  - Jupyter Notebook
+summary: "I created a graph to show any coefficiential relationship among the subjects."
+---
+
+<div class="text-center p-4">
+  <img src=" " >
+</div>
+
+## About the project
+
+
+## Result & Takeaways
