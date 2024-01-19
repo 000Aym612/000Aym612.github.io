@@ -4,7 +4,7 @@ type: project
 image: img/numberDetection.png
 title: "Black Jack Game"
 date: 2022
-published: false
+published: true
 labels:
   - Python
   - Jupyter Notebook
