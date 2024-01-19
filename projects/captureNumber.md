@@ -4,7 +4,7 @@ type: project
 image: img/numberDetection.png
 title: "Capture Hand Written Number"
 date: 2022
-published: true
+published: false
 labels:
   - Python
   - Jupyter Notebook
