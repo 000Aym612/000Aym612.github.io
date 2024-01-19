@@ -2,19 +2,17 @@
 layout: project
 type: project
 image: img/numberDetection.png
-title: "Black Jack Game"
+title: "Capture Hand Written Number"
 date: 2022
 published: false
 labels:
   - Python
   - Jupyter Notebook
-summary: "I created a graph to show any coefficiential relationship among the subjects."
+  - Machine Learning
+summary: "I created a machine learning model using sklearn module with sample hand written number datasets."
 ---
 
 <img class="img-fluid" src="../img/numberDetection.png">
 
 ## About the project
-"In this project, I compared the test results of each student by subject according to a fictional dataset and created a linear regression graph to show whether there are any correlational relationships in the test scores."
-
-## Result & Takeaways
-"The results did not show a correlation between students who are good at history also being good at mathematics or physics, as indicated by the low numerical value representing the correlation. However, it was observed that students who are proficient in mathematics also tend to score high in physics, and similarly, those who are skilled in physics tend to achieve high test scores in mathematics."
+In this project, I utilized a sample dataset of handwritten digits to extract features of each number using Convolutional Neural Networks (CNN). The extracted features, represented as vectors, were then employed to create a training dataset. This dataset was essential for training the model to recognize and interpret handwritten digits. Following the model training phase, I conducted a test using a set of handwritten digit images that I personally created. These images were uploaded to the system as test data. The trained model was then applied to these images to evaluate its effectiveness in accurately identifying and classifying the handwritten digits. This process allowed me to assess the model's precision and reliability in interpreting real-world handwritten data. The goal was to determine how well the CNN model, trained on a standardized dataset, could generalize its learning to new, unseen examples of handwritten digits, particularly those created by myself, thereby testing the robustness and adaptability of the model.
