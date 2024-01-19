@@ -4,7 +4,7 @@ type: project
 image: img/numberDetection.png
 title: "Capture Hand Written Number"
 date: 2022
-published: true
+published: false
 labels:
   - Python
   - Jupyter Notebook
@@ -12,13 +12,13 @@ labels:
 summary: "I created a machine learning model using sklearn module with sample hand written number datasets."
 ---
 
-<img class="img-fluid" src="../img/num1.png"
-  width="200" 
-  height="200">
-
 <img class="img-fluid" src="../img/num2.png"
-  width="200" 
-  height="200">
+  width="400" 
+  height="400">
+  
+  <img class="img-fluid" src="../img/num1.png"
+  width="400" 
+  height="400">
   
   <img class="img-fluid" src="../img/numberDetection.png"
   width="500" 
