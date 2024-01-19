@@ -12,15 +12,16 @@ labels:
 summary: "I created a machine learning model using sklearn module with sample hand written number datasets."
 ---
 
-<img class="img-fluid" src="../img/numberDetection.png"
-  width="400" 
-  height="500">
 <img class="img-fluid" src="../img/num1.png"
-  width="400" 
-  height="500">
+  width="200" 
+  height="200">
 
 <img class="img-fluid" src="../img/num2.png"
-  width="400" 
+  width="200" 
+  height="200">
+  
+  <img class="img-fluid" src="../img/numberDetection.png"
+  width="500" 
   height="500">
 
 ## About the project
