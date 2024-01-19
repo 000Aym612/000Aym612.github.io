@@ -13,7 +13,7 @@ summary: "I created a graph to show any coefficiential relationship among the su
 ---
 
 <div class="text-center p-4">
-  <img src = "img/regression.png" >
+  <img src = "img/regression.png" class="img-thumbnail" >
 </div>
 
 ## About the project
