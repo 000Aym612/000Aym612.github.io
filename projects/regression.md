@@ -12,9 +12,7 @@ labels:
 summary: "I created a graph to show any coefficiential relationship among the subjects."
 ---
 
-<div class="text-center p-4">
-  <img src = "img/regression.png" class="img-thumbnail" >
-</div>
+<img class="img-fluid" src="img/regression.png">
 
 ## About the project
 "In this project, I compared the test results of each student by subject according to a fictional dataset and created a linear regression graph to show whether there are any correlational relationships in the test scores."
