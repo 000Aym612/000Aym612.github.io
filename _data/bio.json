@@ -9,9 +9,8 @@
     "summary": "I am pursuing a B.A. in Information & Computer Science with Data Science certificate at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "000Aym612", "url": "https://github.com/000Aym612" },
-      { "network": "linkedin", "username": "Ayumu Yamagishi", "url": "https://www.linkedin.com/in/ayumu-yamagishi-1237d8738vf" },
-      { "network": "instagram", "username": "ayumu.y_0111001_", "url": "http://instagram.com/ayumu.y_0111001_" }
+      { "network": "github", "username": "000Aym612", "url": "https://github.com/000Aym612"},
+      { "network": "linkedin", "username": "Ayumu Yamagishi", "url": "https://www.linkedin.com/in/ayumu-yamagishi-1237d8738vf"}
     ]
   },
   "interests": [
@@ -22,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "SQL", "C", "C++", "Java", "Javascript", "R", "Ruby" ]
+      "keywords": [ "Python", "SQL", "C/C++", "Java", "Javascript", "R", "Ruby", "HTML/CSS" ]
     },
     {
       "name": "Tools/OS",
