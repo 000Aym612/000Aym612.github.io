@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My first journy of JavaScript!"
+title: "My first journey of JavaScript!"
 date: 2024-01-1
 published: true
 labels:
