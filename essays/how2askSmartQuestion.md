@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Is your question smart enough?"
-date: 2024-01
+date: 2024-01-24
 published: true
 labels:
   - smart question
