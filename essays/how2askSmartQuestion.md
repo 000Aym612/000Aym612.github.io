@@ -32,6 +32,7 @@ From github.com:gituser/gitproject
 Already up-to-date.
 How do I properly delete the remotes/origin/bugfix branch both locally and remotely?
 
+
 Not Smart Question:
 File "C:\Users\Administrator\Documents\Mibot\oops\blinkserv.py", line 82, in __init__
     self.serv = socket(AF_INET,SOCK_STREAM)
