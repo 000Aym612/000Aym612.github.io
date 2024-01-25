@@ -18,24 +18,25 @@ In Java:
 3:   public static void main(String args[]) {
 4:     Array arr = new Array();
 5:     arr = [num1, num2, num3, ..., numN];
-6:   HeapSOrt(arr);
+6:     HeapSOrt(arr);
 7:   }
-8:   public static void HeapSort(Arrray arr) {
-9:     // do heap sort
-10:  }
-11: }
+8:
+9:   public static void HeapSort(Arrray arr) {
+10:     // do heap sort
+11:  }
+12: }
 ```
 
 In JavaScript:
 ```
 1: class sample {
 2:   costructor(arr) {
-3:     this.arr = arr;
-4:   }
-5:   HeapSort(this.arr);
-6: }
-7: // define an array as arr;
-9: mySample = new sample(arr);
+3:      this.arr = arr;
+4:    }
+5:    HeapSort(this.arr);
+6:  }
+7:  // define an array as arr;
+9:  mySample = new sample(arr);
 10: mySample.HeapSort(arr);
 ```
 
