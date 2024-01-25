@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "My first practice of JavaScript!"
-date: 2024-01-1
+date: 2024-01
 published: true
 labels:
   - Software Engineering
