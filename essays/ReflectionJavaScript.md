@@ -3,15 +3,18 @@ layout: essay
 type: essay
 title: "My first practice of JavaScript!"
 date: 2024-01-18
-published: false
+published: true
 labels:
   - Software Engineering
   - Comparison with other languages
   - JavaScript
 ---
 
-<img class="img-fluid" src="../img/javascriptCapture.jpg" src="../img/javascriptcap2"
-  width="300" 
+<img class="img-fluid" src="../img/javascriptCapture.jpg"
+  width="400" 
+  height="400">
+  <img class="img-fluid" src="../img/javascriptcap2.jpg"
+  width="500" 
   height="300">
 
 
