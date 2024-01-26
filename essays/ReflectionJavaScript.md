@@ -56,3 +56,10 @@ Even though I have an experience of other languages, there are always concerns. 
 
 Python is a versatile, high-level programming language used for a wide range of applications and scripting. It's employed in various domains from web development to data analysis, scientific computing, and artificial intelligence.
 While HTML/CSS and JavaScript are primarily specialized in web development, Python is not typically used in the same context, such as for data analysis or scientific computing. Thus, these languages serve different roles and are used in different environments. In the context of web development, they have a complementary relationship.
+
+
+## Reference: 
+### JavaScript Images:
+https://programmerhumor.io/javascript-memes/javascript-is-not-just-for-fun-%f0%9f%99%84-offended/
+https://www.thoughtco.com/what-is-javascript-2037921
+
