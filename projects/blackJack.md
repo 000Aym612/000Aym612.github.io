@@ -20,16 +20,12 @@ It is possible to play a game match against a virtual opponent as a dealer.
 This app can be working well when you kill a time!
 However, this project has not sufficiently considered user graphics. Therefore, I believe that a more visually appealing version can be created by incorporating more photos and motion, or by using JavaScript React.
 
-## What I have learned form the project
-In this project, I did not use class methods and wrote the program code considering two players(you and a dealer), which resulted in an long length of the code unnecessarily. For instance, there's an initialization of 'total = 0' in the first block, and also this initialization is repeated before the definition of function called '_root_()'. If I used a class methods, these repetitive lines could be not neccesary, which help to sav my time. Consequentlly, I implemented the UI(User Interface) using Tkinter module.
-However, compared with JavaScript's React, it's quite basic as for not instantly resetting the game results.
-I found the case which Object Oriented Programming Language work, which motivated me to learn other languages besides Python
-
 
 ## Code Reference
 ```
 import random as R
 import tkinter as tk
+
 
 A = 11
 J = 10
@@ -37,7 +33,8 @@ Q = 10
 K = 10
 cards = [A,2,3,4,5,6,7,8,9,10,J,Q,K]
 total = 0
-
+```
+```
 def hit():
     global total
     i = R.randint(1, 12)
@@ -47,15 +44,17 @@ def hit():
         total -= 10
     total += draw
     print(f'合計は{total}です。')
-
+```
+```
 def stay():
     global total
     print(f'合計は{total}です。')
-
+```
+```
 def Black_Jack():
     global total
     global count
-    
+
     for xx in range(2):
         count += 1
         hit()
@@ -94,11 +93,15 @@ def Black_Jack():
     elif total == 21:
         print('ピッタリです！お見事！')
     return total
+```
 
+```
 total = 0
 count = 0
 Black_Jack()
+```
 
+```
 def _root_():
     Black_Jack()
     root2 = tk.Tk()
@@ -124,3 +127,8 @@ button_start.place(x=300, y=150, width=100, height=100)
 
 root.mainloop()
 ```
+
+## What I have learned form the project
+In this project, I did not use class methods and wrote the program code considering two players(you and a dealer), which resulted in an long length of the code unnecessarily. For instance, there's an initialization of 'total = 0' in the first block, and also this initialization is repeated before the definition of function called '_root_()'. If I used a class methods, these repetitive lines could be not neccesary, which help to sav my time. Consequentlly, I implemented the UI(User Interface) using Tkinter module.
+However, compared with JavaScript's React, it's quite basic as for not instantly resetting the game results.
+I found the case which Object Oriented Programming Language work, which motivated me to learn other languages besides Python or SQL.
