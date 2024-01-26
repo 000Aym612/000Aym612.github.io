@@ -94,5 +94,5 @@ Besides that, the question demonstrates a lack of efficiency. The person who ask
 
 <a href="https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely"> Smart Question </a>
 
-<a href="hhttps://stackoverflow.com/questions/4534438/typeerror-module-object-is-not-callable"> Not Smart Question </a>
+<a href="https://stackoverflow.com/questions/4534438/typeerror-module-object-is-not-callable"> Not Smart Question </a>
 
