@@ -89,6 +89,7 @@ Besides that, the question demonstrates a lack of efficiency. The person who ask
 ## References(URL):
 ### Images:
 https://www.irasutoya.com/2014/01/q.html
+
 https://www.smartsheet.com/blog/essential-guide-writing-smart-goals
 
 ###### Smart Question: https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely
