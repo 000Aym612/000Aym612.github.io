@@ -88,9 +88,11 @@ Besides that, the question demonstrates a lack of efficiency. The person who ask
 
 ## References(URL):
 ### Images:
-<a class link= "https://www.irasutoya.com/2014/01/q.html">
+<a href="https://www.irasutoya.com/2014/01/q.html">Q&A Image</a>
 
-https://www.smartsheet.com/blog/essential-guide-writing-smart-goals
+<a href="https://www.smartsheet.com/blog/essential-guide-writing-smart-goals"> Smart Image </a>
 
-###### Smart Question: https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely
-###### Not Smart Question: https://stackoverflow.com/questions/4534438/typeerror-module-object-is-not-callable
+<a href="https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely"> Smart Question </a>
+
+<a href="hhttps://stackoverflow.com/questions/4534438/typeerror-module-object-is-not-callable"> Not Smart Question </a>
+
