@@ -3,12 +3,18 @@ layout: essay
 type: essay
 title: "My first practice of JavaScript!"
 date: 2024-01-18
-published: true
+published: false
 labels:
   - Software Engineering
   - Comparison with other languages
   - JavaScript
 ---
+
+<img class="img-fluid" src="../img/javascriptCapture.jpg" src="../img/javascriptcap2"
+  width="300" 
+  height="300">
+
+
 
 ## How do you feel on JavaScript in general? Should I use it?  
 
@@ -60,6 +66,6 @@ While HTML/CSS and JavaScript are primarily specialized in web development, Pyth
 
 ## Reference: 
 ### JavaScript Images:
-https://programmerhumor.io/javascript-memes/javascript-is-not-just-for-fun-%f0%9f%99%84-offended/
+https://radixweb.com/blog/javascript-practices-and-tools
 https://www.thoughtco.com/what-is-javascript-2037921
 
