@@ -74,7 +74,7 @@ TypeError: 'module' object is not callable
  Lack of comparison -> How the result differed from what you expected?
 
 
- #### How can you improve the not smart question?
+#### How can you improve the not smart question?
  The example provided what we called a not smart question that fails to meet the criteria of a smart question I mentioned above. It lacks a clear expectation: the person who asked a question has not specified what they intended to achieve with their code. They only presented an error message and asked for a solution without describing the expected output or what they were hoping for as a result of the function. This lack of expectation makes it challenging for others to offer precise advice or solutions, as they have no context about what the code is supposed to do. Smart questions need to convey a clear goal or expected behavior, so responders can tailor their advice accordingly. Without that, answers may only address the superficial aspects of the problem(like only explaining syntax errors) or the reviewer may answer with his misunderstanding without tackling the underlying functional issues.
 
  
