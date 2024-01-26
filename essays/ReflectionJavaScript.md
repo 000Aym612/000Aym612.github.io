@@ -70,5 +70,6 @@ While HTML/CSS and JavaScript are primarily specialized in web development, Pyth
 ## Reference: 
 ### JavaScript Images:
 https://radixweb.com/blog/javascript-practices-and-tools
+
 https://www.thoughtco.com/what-is-javascript-2037921
 
