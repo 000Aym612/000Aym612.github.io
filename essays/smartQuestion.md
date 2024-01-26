@@ -88,7 +88,7 @@ Besides that, the question demonstrates a lack of efficiency. The person who ask
 
 ## References(URL):
 ### Images:
-https://www.irasutoya.com/2014/01/q.html
+<a class link= "https://www.irasutoya.com/2014/01/q.html">
 
 https://www.smartsheet.com/blog/essential-guide-writing-smart-goals
 
