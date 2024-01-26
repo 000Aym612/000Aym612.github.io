@@ -9,6 +9,10 @@ labels:
   - stackoverflow
   - essay
 ---
+
+<img class="img-fluid" src="../img/smart2.png" auto>
+
+
 ## What defines your question as a smart question or not?
 
 
@@ -73,6 +77,7 @@ TypeError: 'module' object is not callable
  
  Lack of comparison -> How the result differed from what you expected?
 
+<img class="img-fluid" src="../img/smart1.jpg" auto>
 
 #### How can you improve the not smart question?
  The example provided what we called a not smart question that fails to meet the criteria of a smart question I mentioned above. It lacks a clear expectation: the person who asked a question has not specified what they intended to achieve with their code. They only presented an error message and asked for a solution without describing the expected output or what they were hoping for as a result of the function. This lack of expectation makes it challenging for others to offer precise advice or solutions, as they have no context about what the code is supposed to do. Smart questions need to convey a clear goal or expected behavior, so responders can tailor their advice accordingly. Without that, answers may only address the superficial aspects of the problem(like only explaining syntax errors) or the reviewer may answer with his misunderstanding without tackling the underlying functional issues.
@@ -81,6 +86,10 @@ TypeError: 'module' object is not callable
 Besides that, the question demonstrates a lack of efficiency. The person who asked a question does not mention details on the attempts he have made to solve the issue, such as researching the error message or trying different coding approaches. This absence suggests that they might be relying solely on others for a solution, without putting in adequate effort to address the problem themselves. Demonstrating self-reliance and initiative, like looking up the error or experimenting with alternative solutions, is crucial in smart questions. It not only shows a willingness to learn but also provides others with a baseline of what has been tried, enabling more focused and advanced assistance. The question fails to provide a comparison between the expected and actual outcomes. There is no mention of how the results deviated from what was anticipated, leaving potential helpers in the dark about the specific nature of the problem. A smart question would clearly articulate these discrepancies, making it easier for others to pinpoint the issue and offer relevant, effective solutions.
 
 
-### References(URL):
+## References(URL):
+### Images:
+https://www.irasutoya.com/2014/01/q.html
+https://www.smartsheet.com/blog/essential-guide-writing-smart-goals
+
 ###### Smart Question: https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely
 ###### Not Smart Question: https://stackoverflow.com/questions/4534438/typeerror-module-object-is-not-callable
