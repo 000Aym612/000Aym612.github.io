@@ -7,7 +7,6 @@ published: true
 labels:
   - smart question
   - stackoverflow
-  - essay
 ---
 
 <img class="img-fluid" src="../img/smart2.png" auto>
