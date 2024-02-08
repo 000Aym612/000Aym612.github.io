@@ -18,14 +18,16 @@ Since I entered university, I have been taking a bunch of coding classes. Some c
 #### When I wanted to comment two or more sentences like:
 
 ```
-The function return sum of numbers
-The function takes 2 numbers as parameters
-function summation(num1, num2){...}
+/* 
+ * The function return sum of numbers
+ * The function takes 2 numbers as parameters
+ * function summation(num1, num2){...}
+ */
 
 /* I usually use '/*' symbol to put multiple comments!
 ```
 
-#### However, I have to type them in the way:
+#### However, I have to type them in this way:
 
 ```
 //The function return sum of numbers
@@ -37,12 +39,14 @@ function summation(num1, num2){...}
 
 Now, let’s take a look at the features of the coding standard and a few advantages.
 
-### Some examples of the guidelines I found it helpful:
+## Some examples of the guidelines I found them helpful:
 
 **Naming conventions for variables:**
 It prevents team members or readers from misunderstanding what a variable represents or highlights the readability of your code as well as clarifying what you intend a variable to hold.
-#### Let's say there is a variable to store the value of the number of heads in 100 times of coin flips.
-If you use a variable named num, the reader might get misunderstood that the variable represents the number of coins flipped!
+
+**Let's say there is a variable to store the value of the number of heads in 100 times of coin flips.**
+
+If you use a variable named **num**, the reader might get misunderstood that the variable represents the number of coins flipped!
 ```
 function coinFlip() {
     times = 100;
@@ -57,7 +61,7 @@ function coinFlip() {
 }
 ```
 
-In this case, using a variable name such as numOfHeads is preferable.
+In this case, using a variable name such as **numOfHeads** is preferable.
 
 ```
 function coinFlip() {
@@ -97,7 +101,7 @@ emp2 = Employee("Jane Doe", "Project Manager")
 
 print(Employee.get_num_employees())
 ```
-Ex. **Formatting style, Guidelines for writing comments, Naming conventions, Programming practices, etc.**
+**Ex. Formatting style, Guidelines for writing comments, Naming conventions, Programming practices, etc.**
 
-### A coding standard builder is a hard worker!!
+## A coding standard builder is a hard worker!!
 From a different perspective, implementing coding standards can be seen as somewhat challenging. Suppose, you are about to collaborate with five team members to build a database that manages company employee data. This database is supposed to be used for the next ten years and is expected to be edited by individuals other than the original creators, therefore the CEO has asked you to create a coding standard for the future. With the project just starting and everything still in the planning phase, you need to consider what will be necessary and what rules could be helpful for those who will modify the program in the future. Since we cannot predict the future, this can be quite difficult. Of course, if the initial setup is challenging, you can change or add a rule once after the project starts, but such modifications could cause the violation of previously written programs against the new rules. Considering these aspects, while coding standards enhance efficiency and teamwork for users, they can be daunting for the creators to establish.
