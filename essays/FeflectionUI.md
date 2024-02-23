@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Web design for everyone"
 date: 2024-02-22
-published: false
+published: true
 labels:
   - Bootstrap
   - HTML/CSS
@@ -25,13 +25,15 @@ Additionally, these UI frameworks, which offer a large amount of features or fun
 
 <img class="img-fluid" src="../img/bootstrap.png" auto>
 
-## Bootstrap is useful for web design
+## Bootstrap for Web Design
 When implementing web pages using HTML/CSS, Bootstrap 5 has proven to be exceptionally efficient and stylish in design.
 For example, if I want to create a web page for another restaurant I own, based on an existing restaurant's webpage, I can easily find out what classes and designs (HTML, CSS, or JavaScript) the original page uses by utilizing the Inspection feature available in browsers like Google Chrome. Of course, simply copying it is not acceptable from privacy and copyright perspectives, as anyone could replicate it. However, by using Bootstrap, it is possible to create a webpage that is original yet similar to the key elements of the original. I was very surprised by this reproducibility, as most functionalities can be achieved with existing features.
 
 
-<img class="img-fluid" src="../img/django.png" auto>
-## Django
+<img class="img-fluid" src="../img/Django.png" auto>
+
+## Django A Framework for Python
+
 In the programming language Python, I frequently utilize a framework called Django. This framework allows the creation of Web APIs and web applications, user authentication, and site management pages. 
 Also, used together with SQL, it facilitates database management and can enhance security by limiting access authorizations to database section with **minimum required level**. The term **minimum required level** is used here for a reason, as the security of APIs and web applications developed with Django is generally not considered to be very high securitied. 
 However, this should not pose a major problem if the developer has a reasonable understanding on security.
