@@ -93,7 +93,7 @@ public class House {
     }
 ```
 
-<img src="../img/houses.jpeg" width=200 height=200 style=align-left>
+<img src="../img/houses.jpeg" width=200 height=200 align-left>
 <img src="../img/house_hawaii.jpeg" width=200 height=200 align-right>
 
 #### Different House in Multiple Locations:
