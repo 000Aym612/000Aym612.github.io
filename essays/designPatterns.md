@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Design patterns help your "
 date: 2024-04-25
-published: true
+published: false
 labels:
   - Design Patterns
   - Software Engineering
@@ -13,7 +13,7 @@ labels:
 - [Functional Aspects of Design Patterns](#functional-aspects-of-design-patterns)
 - [Design Patterns in Object-Oriented Programming](#design-patterns-in-object-oriented-programming)
 
-<img src="../img/designPatterns.png">
+<img src="../img/designPatterns.png" >
 
 
 ### Functional Aspects of Design Patterns
@@ -94,7 +94,6 @@ public class House {
 ```
 
 <img src="../img/houses.jpeg" width=200 height=200>
-
 <img src="../img/house_hawaii.jpeg" width=200 height=200>
 
 #### Different House in Multiple Locations:
