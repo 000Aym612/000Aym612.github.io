@@ -9,13 +9,14 @@ labels:
   - Software Engineering
   - Object-Oriented Programming
 ---
-### Outlines
+### Overview
 - [Functional Aspects of Design Patterns](#functional-aspects-of-design-patterns)
-- topic_2
+- [Design Patterns in Object-Oriented Programming](#design-patterns-in-object-oriented-programming)
 - topic_3
-## Functional Aspects of Design Patterns
-design pattern has different aspects such as creational, structural, and behavioral patterns.
 
+
+
+### Functional Aspects of Design Patterns
 ### Creational Patterns:
 **Creational patterns** deal with object creation mechanisms. 
 
@@ -42,3 +43,63 @@ design pattern has different aspects such as creational, structural, and behavio
 **Strategy:** Enables an algorithm's behavior to be selected at runtime.
 
 **Command:** Encapsulates a command request as an object, thereby letting you parameterize clients with different requests.
+
+### Design Patterns in Object-Oriented Programming
+```
+public class House {
+    // Attributes of the house
+    private String color;
+    private int numberOfRooms;
+    private double squareFootage;
+    private boolean hasGarage;
+
+    // Constructor to initialize the House object
+    public House(String color, int numberOfRooms, double squareFootage, boolean hasGarage) {
+        this.color = color;
+        this.numberOfRooms = numberOfRooms;
+        this.squareFootage = squareFootage;
+        this.hasGarage = hasGarage;
+    }
+
+    // Getter and Setter methods
+    public String getColor() {
+        return color;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
+    }
+
+    public int getNumberOfRooms() {
+        return numberOfRooms;
+    }
+
+    public void setNumberOfRooms(int numberOfRooms) {
+        this.numberOfRooms = numberOfRooms;
+    }
+
+    public double getSquareFootage() {
+        return squareFootage;
+    }
+
+    public void setSquareFootage(double squareFootage) {
+        this.squareFootage = squareFootage;
+    }
+
+    public boolean hasGarage() {
+        return hasGarage;
+    }
+
+    public void setHasGarage(boolean hasGarage) {
+        this.hasGarage = hasGarage;
+    }
+
+    // Method to display information about the house
+    public void displayInfo() {
+        System.out.println("House Details:");
+        System.out.println("Color: " + color);
+        System.out.println("Number of Rooms: " + numberOfRooms);
+        System.out.println("Square Footage: " + squareFootage);
+        System.out.println("Has Garage: " + (hasGarage ? "Yes" : "No"));
+    }
+```
