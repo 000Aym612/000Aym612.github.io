@@ -93,8 +93,9 @@ public class House {
     }
 ```
 
-<img src="../img/houses.jpeg">
-<img src="../img/house_hawaii.jpeg">
+<img src="../img/houses.jpeg" width=200 height=200>
+
+<img src="../img/house_hawaii.jpeg" width=200 height=200>
 
 #### Different House in Multiple Locations:
 Using a class method to create the basic form of a house (in this example, all houses are assumed to have at least one roof and room in addition to its color), I set the minimum components of a house such as color, roof, rooms, and square of house. Additionally, corresponding getter() and setter() functions are provided as public functions in the class.
