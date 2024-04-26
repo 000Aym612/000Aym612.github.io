@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Design patterns help your "
 date: 2024-04-25
-published: false
+published: true
 labels:
   - Design Patterns
   - Software Engineering
