@@ -51,14 +51,12 @@ public class House {
     private String color;
     private int numberOfRooms;
     private double squareFootage;
-    private boolean hasGarage;
 
     // Constructor to initialize the House object
     public House(String color, int numberOfRooms, double squareFootage, boolean hasGarage) {
         this.color = color;
         this.numberOfRooms = numberOfRooms;
         this.squareFootage = squareFootage;
-        this.hasGarage = hasGarage;
     }
 
     // Getter and Setter methods
@@ -86,20 +84,11 @@ public class House {
         this.squareFootage = squareFootage;
     }
 
-    public boolean hasGarage() {
-        return hasGarage;
-    }
-
-    public void setHasGarage(boolean hasGarage) {
-        this.hasGarage = hasGarage;
-    }
-
     // Method to display information about the house
     public void displayInfo() {
         System.out.println("House Details:");
         System.out.println("Color: " + color);
         System.out.println("Number of Rooms: " + numberOfRooms);
         System.out.println("Square Footage: " + squareFootage);
-        System.out.println("Has Garage: " + (hasGarage ? "Yes" : "No"));
     }
 ```
