@@ -12,8 +12,8 @@ labels:
 ### Overview
 - [Functional Aspects of Design Patterns](#functional-aspects-of-design-patterns)
 - [Design Patterns in Object-Oriented Programming](#design-patterns-in-object-oriented-programming)
-- topic_3
 
+<img src="">
 
 
 ### Functional Aspects of Design Patterns
@@ -92,3 +92,6 @@ public class House {
         System.out.println("Square Footage: " + squareFootage);
     }
 ```
+Using a class method to create the basic form of a house (in this example, all houses are assumed to have at least one roof and room in addition to its color), I set the minimum components of a house such as color, roof, rooms, and square of house. Additionally, corresponding getter() and setter() functions are provided as public functions in the class.
+
+Using this class makes possible to design houses with various additional features besides the basic components of a house. For instance, let's consider designing a house for an area with heavy snow. One idea could be having a design of a house whose roof has an effective slope to remove accumulated snow every night. Another possible house could also be equipped with heating and a parking lot or garage. On the other hand, let's imagine designing a house in Hawaii, in addition to the essential structures like roofs and room, features like windows that offer good ventilation and airflow, and the installation of air conditioning can be preferable. These additional features are independent of the basic model of the house I set up with class definition which has color, roof, rooms, and space capacity, but they are essential.
