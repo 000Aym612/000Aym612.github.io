@@ -10,7 +10,7 @@ labels:
 ---
 
 ### I. Introduction
-Generative AI such as Chat-GPT or GitHub Copilot have appeared in a few recent years. Those AI tools have been changed the world dramatically. In this essay, we are going to discuss how to take advantage of those AI tools in the soft engineering field with my personal experience in ICS 314 at University of Hawaii at Manoa, considering how those AI tools would help you to understand the concept, improve your learning materials as well as discovering the challenges and opportunities that I found in the class.
+Generative AI such as Chat-GPT or GitHub Copilot have appeared in a few recent years. Those AI tools have been changed the world dramatically. In this essay, we are going to discuss how to take advantage of those AI tools in the software engineering field with my personal experience in ICS 314 at University of Hawaii at Manoa, considering how those AI tools would help you to understand the concept, improve your learning materials as well as discovering the challenges and opportunities that I found in the class.
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
