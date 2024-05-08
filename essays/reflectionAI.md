@@ -9,8 +9,12 @@ labels:
   - Software Engineering
 ---
 
+<img src="../img/copilot.png">
+
 ### I. Introduction
 Generative AI such as Chat-GPT or GitHub Copilot have appeared in a few recent years. Those AI tools have been changed the world dramatically. In this essay, we are going to discuss how to take advantage of those AI tools in the software engineering field with my personal experience in ICS 314 at University of Hawaii at Manoa, considering how those AI tools would help you to understand the concept, improve your learning materials as well as discovering the challenges and opportunities that I found in the class.
+
+<img src="../img/chatGPT_logo.jpg">
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
