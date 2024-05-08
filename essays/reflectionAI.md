@@ -60,31 +60,33 @@ I have used AI in class this semester in the following areas:
 
 
 12. Documenting code
-    I have ---
+    I have never used Chat-GPT to document code. The main reason is that I have never used Chat-GPT to write a code by my self. If I heavily depend on the Chat-GPT to write a code, I would miss the opportunity to write a code, understand how a certain code works. So, I would not like to use Chat-GPT to document code.
 
 
 13. Quality assurance
-    I have ---
+    I have used Chat-GPT for this purpose to make sure my code is grammatically correct, but I did not think it was helpful. That is mainly because Chat-GPT changes the opinions frequently, even though the code is correct.
 
 
 14. Other uses in ICS 314 not listed above
-    I have ---
+
+    As I mentioned above, I have used Chat-GPT for translation from English to Japanese. It was usually helpful for me to make sure what to do in a certain question or task.
 
 
 
 ### III. Impact on Learning and Understanding:
-
+In terms or learning, if you use Chat-GPT correctly unless you ask Chat-GPT for everything such as writing a code, answering a question, or looking up make it find an error, modify your code, it is a really good assistant for your programming experience. However, if you let Chat-GPT do those stuffs instead of you, and you just take your time for fun(watching anime, playing games, etc.), you could be pass the course and get a good grade, but you would get any technical knowledge, improvements of programming, nor understanding the concept at all. So, it is really important to define the rules when you use Chat-GPT or GitHub Copilot. By defining the rules, you can take advantage of Chat-GPT for your programming experience.
 
 ### IV. Practical Applications:
-
+Through my experience that I tried using AI in my final project, I strongly felt that tasks involving large-scale operations or programs that run multiple files together should not be handled by AI. This is because, even though some of the errors I asked about were resolved temporary, leaving parts of the project to an AI that does not have a complete understanding of how the whole project look like often led to new errors. However, I think it is good to consider the code ideas proposed by AI only as a reference and not to apply them entirely. Additionally, even with code written by AI, I felt it is essential to check each line of the program to understand clearly how it operates. From this experience, I personally do not welcome using AI in such a large-scale project.
 
 ### V. Challenges and Opportunities:
-
+One of my challenges that I faced through this semester was that telling AI what you want to do in a part or in a big picture was kind of difficult. Even though you can explain that to human, it does not make any sense to AI. Moreover, your explanations could make sense for AI, but it understands what you told mistakenly or in a wrong direction. Those cases happened to me several times. Meanwhile, I believe that using AI in coding or these kinds of projects have a great opportunity such as AI helps you to write a code by showing what is going on in a program from the machine side. That would help you find errors or simply understand how the entire program works, or look like.
 
 ### VI. Comparative Analysis:
-
+I felt that using AI in the software engineering field is a double-edged sword. On the one hand, AI can help you to understand the concept, improve your learning materials if you use correctly. On the other hand, by using AI tools, you can easily write a code without the actual understanding, that might allow students to get lazy because it is really easy to steal an idea from AI or Internet, even though writing a code is not hard problem. So it actually depends on who uses AI and how he/she takes advantages of AI.
 
 ### VII. Future Considerations:
-
+In the future, the use of AI in software engineering fields get increased more and more. It is quite difficult to stop using those helpful(could be harmful at the same time) tools. Considering the development of technology in the previous decade, AI ia developed rapidly, making their accuracy hihger and higher, I believe in the near future, people would stop writing codes, instead of humans, AI write a code for them and humans asks them what they want to make and how AI should improve a code.
 
 ### VIII. Conclusion:
+Since we are living in the rapidly innovating world, the tools or products that used AI would be more common in the future. Those tools could be a cause of bad influence for humans in terms of learning and comprehension. However, it is quite difficult to prevent us from using AI in our tasks, and tell if they used it or not. Indeed, what we need is not a regulation to use AI, instead what we really need to consider is how we can live with AI without violating the meaning of learning, and developments of AI technologies.
