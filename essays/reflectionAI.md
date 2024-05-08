@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "How to take advantage of AI in ICS 314"
+title: "Takeaways from using AI in a class"
 date: 2024-05-01
-published: false
+published: true
 labels:
   - Use of AI
   - Software Engineering
