@@ -129,6 +129,6 @@ root.mainloop()
 ```
 
 ## What I have learned form the project
-In this project, I did not use class methods and wrote the program code considering two players(you and a dealer), which resulted in an long length of the code unnecessarily. For instance, there's an initialization of 'total = 0' in the first block, and also this initialization is repeated before the definition of function called '_root_()'. If I used a class methods, these repetitive lines could be not neccesary, which help to sav my time. Consequentlly, I implemented the UI(User Interface) using Tkinter module.
+In this project, I did not use class methods and wrote the program code considering two players(you and a dealer), which resulted in a long length of the code unnecessarily. For instance, there's an initialization of 'total = 0' in the first block, and also this initialization is repeated before the definition of function called '_root_()'. If I used a class methods, these repetitive lines could be not necessary, which help to sav my time. Consequently, I implemented the UI(User Interface) using Tkinter module.
 However, compared with JavaScript's React, it's quite basic as for not instantly resetting the game results.
-I found the case which Object Oriented Programming Language work, which motivated me to learn other languages besides Python or SQL.
+I found the case which Object-Oriented Programming Language work, which motivated me to learn other languages besides Python or SQL.
