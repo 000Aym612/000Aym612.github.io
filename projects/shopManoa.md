@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/numberDetection.png
+image: img/laptop.jpg
 title: "Flea Market for students of UH Manoa"
 date: 2024
 published: true
@@ -18,8 +18,6 @@ summary: "A web platform that allows students to buy and sell items with other s
  - [My Role in Project](#my-role-in-project)
  - [Takeaways](#takeaways)
  - [Links](#links)
-
-<img src="../img/landing.jpg">
 
 ### About Project
 We made a website for flea market for the members of UH Manoa. This website is a platform where students and faculty members of UHM can sell and buy products such as furniture and services each other. To sign up, you need an email address ending with **@hawaii.ed**u. Which also indicates that you are at UH. We used Meteor and React to build this website.
