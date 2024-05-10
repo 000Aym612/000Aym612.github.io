@@ -4,7 +4,7 @@ type: project
 image: img/numberDetection.png
 title: "Flea Market for students of UH Manoa"
 date: 2024
-published: false
+published: true
 labels:
   - Software Engineering
   - Meteor
