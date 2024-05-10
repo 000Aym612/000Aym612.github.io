@@ -17,8 +17,8 @@ labels:
 
 
 ### Functional Aspects of Design Patterns
-### Creational Patterns:
-**Creational patterns** deal with object creation mechanisms. 
+### Creation Patterns:
+**Creation patterns** deal with object creation mechanisms. 
 
 **Singleton:** Ensures a class has only one instance and provides a global point of access to it.
 

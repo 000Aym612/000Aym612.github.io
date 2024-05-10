@@ -39,7 +39,7 @@ Potential pages for SkillSwap will include:
 - User profile page: Displays user picture, bio, skills, interests. etc.
 - Browsing page: Displays profile cards with basic info of users
 - Admin page: Manage and moderate website
-- Log in/Sign up page: Where user can either login or create a new account
+- Log in/Sign up page: Where user can either log in or create a new account
 - Chat: Where matches can contact each other
 
 **Case Ideas:**

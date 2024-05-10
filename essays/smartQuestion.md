@@ -39,10 +39,10 @@ From github.com:gituser/gitproject
 Already up-to-date.
 ```
 
-### Smart questions ususally have to provide:
- (Information): Needs to provide information as much as possible to make your problem clear enough for reviewrs.
+### Smart questions usually have to provide:
+ (Information): Needs to provide information as much as possible to make your problem clear enough for reviewers.
  
- (Efficiency): Needs to explain what you have tried already for an efficiency of reviewrs.
+ (Efficiency): Needs to explain what you have tried already for an efficiency of reviewers.
  
  (Expectation): Needs to refer to what you expected the code do or look like.
  
@@ -82,7 +82,7 @@ TypeError: 'module' object is not callable
  The example provided what we called a not smart question that fails to meet the criteria of a smart question I mentioned above. It lacks a clear expectation: the person who asked a question has not specified what they intended to achieve with their code. They only presented an error message and asked for a solution without describing the expected output or what they were hoping for as a result of the function. This lack of expectation makes it challenging for others to offer precise advice or solutions, as they have no context about what the code is supposed to do. Smart questions need to convey a clear goal or expected behavior, so responders can tailor their advice accordingly. Without that, answers may only address the superficial aspects of the problem(like only explaining syntax errors) or the reviewer may answer with his misunderstanding without tackling the underlying functional issues.
 
  
-Besides that, the question demonstrates a lack of efficiency. The person who asked a question does not mention details on the attempts he have made to solve the issue, such as researching the error message or trying different coding approaches. This absence suggests that they might be relying solely on others for a solution, without putting in adequate effort to address the problem themselves. Demonstrating self-reliance and initiative, like looking up the error or experimenting with alternative solutions, is crucial in smart questions. It not only shows a willingness to learn but also provides others with a baseline of what has been tried, enabling more focused and advanced assistance. The question fails to provide a comparison between the expected and actual outcomes. There is no mention of how the results deviated from what was anticipated, leaving potential helpers in the dark about the specific nature of the problem. A smart question would clearly articulate these discrepancies, making it easier for others to pinpoint the issue and offer relevant, effective solutions.
+Besides that, the question demonstrates a lack of efficiency. The person who asked a question does not mention details on the attempts he has made to solve the issue, such as researching the error message or trying different coding approaches. This absence suggests that they might be relying solely on others for a solution, without putting in adequate effort to address the problem themselves. Demonstrating self-reliance and initiative, like looking up the error or experimenting with alternative solutions, is crucial in smart questions. It not only shows a willingness to learn but also provides others with a baseline of what has been tried, enabling more focused and advanced assistance. The question fails to provide a comparison between the expected and actual outcomes. There is no mention of how the results deviated from what was anticipated, leaving potential helpers in the dark about the specific nature of the problem. A smart question would clearly articulate these discrepancies, making it easier for others to pinpoint the issue and offer relevant, effective solutions.
 
 
 ## References(URL):

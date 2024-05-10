@@ -54,7 +54,7 @@ labels:
 10: mySample.HeapSort(arr);
 ```
 
-  As it is written above, we need to declare which data type the array arr(Java: line3 & line8) is. On the other hands, in JavaScript, we do not ned to declare it(JavaScript: line2 & line9) which means we are not restricted to a data type, but a datatype is expected to be passed as a parameter of a class.
+  As it is written above, we need to declare which data type the array arr(Java: line3 & line8) is. On the other hands, in JavaScript, we do not need to declare it(JavaScript: line2 & line9) which means we are not restricted to a data type, but a datatype is expected to be passed as a parameter of a class.
 
 
 ### Is JavaScript useful or useless?

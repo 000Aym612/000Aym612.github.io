@@ -16,7 +16,7 @@ labels:
 
 ## Reasons for Using a UI Framework
 The primary reason for using a UI framework is to save the time for development.
-The frame work allows for the implementation of designs without writing the same code as the original. Unless you have to rewrite the exactly same code as someone else has already developed to implement a function. This advantage becomes particularly apparent when working on projects in a group.
+The framework allows for the implementation of designs without writing the same code as the original. Unless you have to rewrite the exactly same code as someone else has already developed to implement a function. This advantage becomes particularly apparent when working on projects in a group.
 For example, by leveraging a framework, developers can eliminate the need to create designs from scratch.
 This allows developers to focus more on essential features, reducing both the time and cost of the project.
 This not only saves time for the engineers who are in charge of the projects for the development but also results in cost savings on labor for the company.
@@ -35,6 +35,6 @@ For example, if I want to create a web page for another restaurant I own, based 
 ## Django A Framework for Python
 
 In the programming language Python, I frequently utilize a framework called Django. This framework allows the creation of Web APIs and web applications, user authentication, and site management pages. 
-Also, used together with SQL, it facilitates database management and can enhance security by limiting access authorizations to database section with **minimum required level**. The term **minimum required level** is used here for a reason, as the security of APIs and web applications developed with Django is generally not considered to be very high securitied. 
+Also, used together with SQL, it facilitates database management and can enhance security by limiting access authorizations to database section with **minimum required level**. The term **minimum required level** is used here for a reason, as the security of APIs and web applications developed with Django is generally not considered to be very high securities. 
 However, this should not pose a major problem if the developer has a reasonable understanding on security.
 Thus, while the framework itself can significantly save the programmer's time and assist in writing programs easily, there can be disadvantages such as the security aspects of Django. Therefore, when using a framework, it is crucial for programmers to be aware of the characteristics of the framework they are using and for what purpose, and to write code accordingly.
