@@ -109,8 +109,8 @@ plt.show()
 ```
 
 ## What I learned in the project
-The giggest takeaway from the project is that I could use my knowledge to Machine Learning to practice it.
+The biggest takeaway from the project is that I could use my knowledge to Machine Learning to practice it.
 Until I have done the project, I only knew the concept and some facts on machine learning or AI.
 
-However, the actual coding let me think how the cocept works behind the code.
+However, the actual coding let me think how the concept works behind the code.
 Through this experience, I was able to gain knowledge about the construction of simple models, ways to utilize sample datasets, and widely used models in machine learning.

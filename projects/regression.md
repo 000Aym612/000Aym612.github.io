@@ -9,7 +9,7 @@ labels:
   - Python
   - Data Analysis
   - Jupyter Notebook
-summary: "I created a graph to show any coefficiential relationship among the subjects."
+summary: "I created a graph to show any coefficient relations among the subjects."
 ---
 
 <img class="img-fluid" src="../img/regression.png"
