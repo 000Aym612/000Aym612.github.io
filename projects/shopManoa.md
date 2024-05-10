@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/laptop.jpg
+image: img/landing.jpg
 title: "Flea Market for students of UH Manoa"
 date: 2024
 published: true
