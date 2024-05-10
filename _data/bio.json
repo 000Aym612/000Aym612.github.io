@@ -24,14 +24,20 @@
       "keywords": [ "Python", "SQL", "C/C++", "Java", "Javascript", "R", "Ruby", "HTML/CSS" ]
     },
     {
-      "name": "Tools/OS",
-      "keywords": [ "MacOS", "Unix", "Git/GitHub", "Jupyter Notebook", "Eclipse", "Visual Studio Code", "R studio", "Google Colaboratory" ]
+      "name": "Environments",
+      "keywords": [ "MacOS", "Unix", "Git/GitHub",
+        "Jupyter Notebook", "Eclipse", "Visual Studio Code", "R studio", "Google Colaboratory" ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [ "Tensorflow", "Keras", "Scikit-learn", "Pandas", "Numpy", "Matplotlib", "Seaborn", "Django",
+      "React", "MongoDB", "Bootstrap" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information & Computer Sciencece (expected Spring 2025)",
+      "area": "Information & Computer Science (expected Spring 2025)",
       "studyType": "B.A.",
       "startDate": "2022-12-31",
       "endDate": "Present"
