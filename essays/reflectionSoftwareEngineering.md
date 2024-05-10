@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "--Title--"
+title: "Powerful Tools in Software Engineering"
 date: 2024-05-09
 published: true
 labels:
