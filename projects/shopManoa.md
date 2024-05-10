@@ -12,3 +12,7 @@ labels:
 summary: "A web platform that allows students to buy and sell items with other students at UH Manoa."
 ---
 
+
+
+<link rel="Overviews" href="https://shop-manoa.github.io//">
+<link rel="Shop Manoa" href="https://shop-manoa.com/">
