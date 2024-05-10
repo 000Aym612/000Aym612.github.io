@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Final Project Idea"
 date: 2024-03-28
-publish: true
+publish: false
 labels:
   - Software Engineering
   - Meteor
