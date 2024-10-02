@@ -4,7 +4,7 @@ type: project
 image: img/landing.jpg
 title: "Flea Market for students of UH Manoa"
 date: 2024
-published: true
+published: false
 labels:
   - Software Engineering
   - Meteor
