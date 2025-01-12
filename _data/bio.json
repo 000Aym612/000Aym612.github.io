@@ -35,7 +35,7 @@
       "React", "MongoDB", "Bootstrap", "MySQL" ]
     }
   ],
-  "Education Backgrounds": [
+  "education": [
     {
       "institution": "University of Hawaii at Manoa",
       "area": "Information & Computer Science with Data Science Certificate",
@@ -51,7 +51,7 @@
       "endDate": "2023-07"
     }
   ],
-  "Work/Experiences": [
+  "work": [
     {
       "company": "Namco Enterprise",
       "position": "Customer Services",
