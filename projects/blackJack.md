@@ -11,7 +11,7 @@ labels:
 summary: "I created a black jack game application."
 ---
 
-<img class="img-fluid" src="../img/blackJack.jpeg">
+<img src="../img/blackJack.jpeg" style="width: auto; height: auto;">
 
 ## About the project
 This is an apps to play Blackjack by using TKInter module and random module in Python.
