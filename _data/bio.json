@@ -40,15 +40,15 @@
       "institution": "University of Hawaii at Manoa",
       "area": "Information & Computer Science with Data Science Certificate",
       "studyType": "B.A.",
-      "startDate": "2023-08",
+      "startDate": "2023/08",
       "endDate": "Present"
     },
     {
       "institution": "Hakuoh University",
       "area": "Business Administration",
       "studyType": "B.A.",
-      "startDate": "2021-04",
-      "endDate": "2023-07"
+      "startDate": "2021/04",
+      "endDate": "2023/07"
     }
   ],
   "work": [
@@ -62,22 +62,22 @@
     {
       "company": "School Thomas",
       "position": "Tutoring",
-      "startDate": "2021-10",
-      "endDate": "2022-08",
+      "startDate": "2021/10",
+      "endDate": "2022/08",
       "summary": "Worked as a tutor of English and math for high school/Junior high school students."
     },
     {
       "company": "Reazon Holdings, Inc.",
       "position": "Data Scientist",
-      "startDate": "2024-07",
-      "endDate": "2024-08",
+      "startDate": "2024/07",
+      "endDate": "2024/08",
       "summary": "Business data analysis with mobile game app user data."
     }
   ],
   "awards": [
     {
       "title": "International Merit awards",
-      "date": "2023-Present",
+      "date": "2023 - Present",
       "awarder": "University of Hawaii"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "title": "Scholarship for Academic Excellence",
-      "date": "2021-2023",
+      "date": "2021 - 2023",
       "awarder": "Hakuoh University"
     },
   ],
