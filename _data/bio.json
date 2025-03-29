@@ -6,8 +6,8 @@
     "email": "ay26@hawaii.edu",
     "phone": "(+1)808-520-1935",
     "website": "https://000Aym612.github.io",
-    "summary": "B.A. Information & Computer Science with Data Science certificate at the University of Hawaii at Manoa(Spring 2025)",
-    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "B.A. Information & Computer Science at the University of Hawaii at Manoa",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "000Aym612", "url": "https://github.com/000Aym612"},
       { "network": "linkedin", "username": "Ayumu Yamagishi", "url": "https://www.linkedin.com/in/ayumu-yamagishi-1237d8738vf"}
@@ -26,7 +26,7 @@
     {
       "name": "Environments",
       "keywords": [ "MacOS", "Unix/Linux", "Git/GitHub",
-        "Jupyter Notebook", "Eclipse", "Visual Studio Code", "R studio", "Google Colaboratory",
+        "Jupyter Notebook", "Visual Studio Code", "R studio", "Google Colaboratory",
         "JetBrains Tools", "Looker Studio", "Big Query"]
     },
     {
