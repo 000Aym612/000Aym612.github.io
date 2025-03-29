@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img class="img-fluid" src="../img/blackJack.jpeg" width="400" height="300">
+image: img/BlackJach.png
 title: "Black Jack Game"
 date: 2022
 published: true
