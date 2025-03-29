@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Is your question smart enough?"
 date: 2024-01-24
-published: true
+published: false
 labels:
   - smart question
   - stackoverflow
