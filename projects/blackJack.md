@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/blackJack.jpeg
+image: <img class="img-fluid" src="../img/blackJack.jpeg" width="400" height="300">
 title: "Black Jack Game"
 date: 2022
 published: true
@@ -11,9 +11,7 @@ labels:
 summary: "I created a black jack game application."
 ---
 
-<img class="img-fluid" src="../img/blackJack.jpeg" 
-width="400" 
-height="300">
+
 
 ## About the project
 This is an apps to play Blackjack by using TKInter module and random module in Python.
