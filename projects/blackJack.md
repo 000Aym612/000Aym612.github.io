@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/BlackJach.png
+image: img/BlackJack.png
 title: "Black Jack Game"
 date: 2022
 published: true
