@@ -36,8 +36,3 @@ I was in charge of making reporting system for the website. It allows you to rep
 
 ### Takeaways
 One of the biggest takeaways from this project was learning how to work with a team. I had to communicate with my team members to make sure we were all on the same page. I also learned how to work with a new technology, Meteor. I had never used Meteor before, so I had to learn how to use it. Fortunately, there was a template made by ICS department at UHM. I was able to use that template to help me get started. I also learned how to use React. I had used React before, but I had never used it in a project this big. I learned how to use React to make the website more interactive. Besides that, I recognized how useful the React is! Overall, I learned a lot from this project, I am proud of what we were able to accomplish.
-
-### Links
-<a href="https://shop-manoa.github.io//">More info? Click here!</a>
-
-<a href="https://shop-manoa.com//"> Shop Manoa Now!</a>
