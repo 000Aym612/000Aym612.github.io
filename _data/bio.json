@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "../img/profilePic.jpg",
     "email": "ay26@hawaii.edu",
-    "phone": "(+1)808-520-1935",
+    "phone": "",
     "website": "https://000Aym612.github.io",
     "summary": "B.A. Information & Computer Science at the University of Hawaii at Manoa",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -31,8 +31,8 @@
     },
     {
       "name": "Tools/Frameworks",
-      "keywords": [ "Tensorflow", "Keras", "Scikit-learn", "Pandas", "Numpy", "Matplotlib", "Seaborn", "Django",
-      "React", "MongoDB", "Bootstrap", "MySQL" ]
+      "keywords": [ "Tensorflow", "Scikit-learn", "Pandas", "Numpy", "Matplotlib", "Seaborn", "Django",
+      "React", "MongoDB", "Bootstrap" ]
     }
   ],
   "education": [
@@ -41,7 +41,7 @@
       "area": "Information & Computer Science with Data Science Certificate",
       "studyType": "B.A.",
       "startDate": "2023/08",
-      "endDate": "Present"
+      "endDate": "2025/05"
     },
     {
       "institution": "Hakuoh University",
@@ -77,7 +77,7 @@
   "awards": [
     {
       "title": "International Merit awards",
-      "date": "2023 - Present",
+      "date": "2023 - 2025",
       "awarder": "University of Hawaii"
     },
     {
